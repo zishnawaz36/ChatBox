@@ -1,0 +1,106 @@
+{
+  "sales-chat": [
+    {
+      "session_id": "abc123",
+      "response": "The best way to improve cybersecurity is to implement strong access control policies.",
+      "history": [
+        "What are the best ways to improve cybersecurity?"
+      ],
+      "id": "f329"
+    },
+    {
+      "id": "4b45",
+      "input": "hey"
+    },
+    {
+      "id": "9ce7",
+      "input": "hey"
+    },
+    {
+      "id": "571a",
+      "input": "hey"
+    }
+  ],
+  "market-insights": [
+    {
+      "session_id": "abc123",
+      "report": {
+        "latest_attacks": "Company X experienced a ransomware attack in September 2024.",
+        "pain_points": "Insufficient backup policies, outdated software."
+      },
+      "history": [
+        "Please provide insights for Company X."
+      ],
+      "id": "4f19"
+    },
+    {
+      "id": "8d58",
+      "company": "good"
+    },
+    {
+      "id": "856f",
+      "company": "good"
+    },
+    {
+      "id": "c47e",
+      "company": "hello"
+    },
+    {
+      "id": "3ce3",
+      "company": "bajaj"
+    }
+  ],
+  "magic-button": [
+    {
+      "session_id": "abc123",
+      "updated_report": "After feedback, Company X has updated its security policies.",
+      "response": "Company X has made improvements based on your input.",
+      "history": [
+        "Please update the insights for Company X."
+      ],
+      "id": "bc12"
+    },
+    {
+      "id": "9526",
+      "feedback": "nice"
+    },
+    {
+      "id": "5ab9",
+      "feedback": "nice"
+    },
+    {
+      "id": "f8b3",
+      "feedback": "nice"
+    },
+    {
+      "id": "259d",
+      "feedback": "nice"
+    },
+    {
+      "id": "1d11",
+      "feedback": "magic"
+    }
+  ],
+  "product-guide": [
+    {
+      "session_id": "abc123",
+      "response": "Our most popular product is the CyberShield 2024 known for advanced threat detection.",
+      "history": [
+        "Tell me about your most popular product."
+      ],
+      "id": "6248"
+    },
+    {
+      "id": "3324",
+      "question": "hey"
+    },
+    {
+      "id": "0ce4",
+      "question": "good"
+    },
+    {
+      "id": "f724",
+      "question": "produxt"
+    }
+  ]
+}
